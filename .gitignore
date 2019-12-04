@@ -1,0 +1,15 @@
+.DS_Store
+.idea
+
+target
+__pycache__
+
+*.pyc
+*.iml
+
+input_txt
+output_pic
+
+input_ts
+output_mp4
+
